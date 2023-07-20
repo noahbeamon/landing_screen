@@ -1,0 +1,29 @@
+h2 {
+  text-align: center;
+  color: rgb(23, 22, 22);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.contactus__container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.employee_photo {
+  border-radius: 400rem;
+  width: 10rem;
+  height: 10rem;
+}
+
+a {
+  color: rgb(126, 117, 119);
+}
+
+.experience_item {
+  margin-left: 20rem;
+  margin-right: 20rem;
+  margin-top: 2rem;
+}
